@@ -11,6 +11,7 @@ syntax on
 colorscheme koehler
 set background=dark
 
+
 "tab関連
 set expandtab
 set tabstop=2
